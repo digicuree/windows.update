@@ -16,6 +16,6 @@ Method 3. Press Windows logo key and I key on the keyboard simultaneously. Then 
 ## Common Windows Update Issues
 
 
-Issue 1. Windows Update Service Not Running
-Issue 2. Meeting Various Windows Update Error Codes
-Issue 3. Windows Update Stuck
+1. Windows Update Service Not Running
+2. Meeting Various Windows Update Error Codes
+3. Windows Update Stuck
